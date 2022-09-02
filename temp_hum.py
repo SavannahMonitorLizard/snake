@@ -1,4 +1,5 @@
 import sys
+from flask import Flask
 import Adafruit_DHT
 
 while True:
